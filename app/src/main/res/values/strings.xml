@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geosafe SMS Listener</string>
+    <string name="permission_alert_dialog_title">Permisos SMS</string>
+    <string name="permission_dialog_message">Otorgar permisos necesarios SMS</string>
+    <string name="action_ok">Ok</string>
+
+</resources>
